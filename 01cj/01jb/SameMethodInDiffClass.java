@@ -27,3 +27,5 @@ static void m1(){
     }
     
 }
+
+//both has different scopes \boundaries\limits
