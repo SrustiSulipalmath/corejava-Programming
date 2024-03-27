@@ -1,0 +1,5 @@
+Main-Class: p3.Test1
+Class-Path: dist\hrms\lib\a.jar dist\hrms\lib\b.jar
+
+
+

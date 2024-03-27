@@ -1,0 +1,6 @@
+Main-Class: p3.Test
+Class-Path: lib\a.jar lib\b.jar
+
+
+
+
