@@ -1,0 +1,2 @@
+Main-Class: com.nit.hkpw.user.Calc
+Class-Path: lib\classes1.jar lib\classes2.jar
