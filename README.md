@@ -2,5 +2,7 @@
 
 
 I worked with and learned how to use Notepad and Command Prompt first. 
-Then, I worked with the open-source code editor program Brackets.
+Then, 
+1)I worked with the open-source code editor program Brackets.
+2)worked with editplus editor software
 
